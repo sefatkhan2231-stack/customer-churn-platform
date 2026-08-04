@@ -12,7 +12,7 @@ export default function ModelComparisonChart() {
   const [models, setModels] = useState([]);
 
   useEffect(() => {
-    fetch("https://customer-churn-platform-wg9x.onrender.com")
+    fetch("https://customer-churn-platform-wg9x.onrender.com/report")
       .then((res) => res.json())
       .then((data) =>
         setModels(
