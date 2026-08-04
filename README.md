@@ -385,11 +385,11 @@ _Add screenshot here_
 
 GitHub
 
-https://github.com/yourusername
+[https://github.com/yourusername](https://github.com/sefatkhan2231-stack/customer-churn-platform.git)
 
 LinkedIn
 
-https://linkedin.com/in/yourprofile
+www.linkedin.com/in/sefat-khan-44296b2b8
 
 ---
 
