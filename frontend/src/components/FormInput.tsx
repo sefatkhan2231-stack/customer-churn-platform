@@ -4,6 +4,7 @@ interface Props {
   label: string;
   name: string;
   type?: string;
+  step?: string;
   register: UseFormRegister<any>;
 }
 
