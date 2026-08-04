@@ -1,0 +1,55 @@
+Feature,Importance
+cat__Contract_Month-to-month,0.4412632352373213
+cat__OnlineSecurity_No,0.11177472212940784
+cat__TechSupport_No,0.07066591913037723
+cat__InternetService_Fiber optic,0.05549773796175704
+num__tenure,0.04844952730219883
+cat__PaymentMethod_Electronic check,0.04676778267064475
+cat__CustomerLoyalty_New,0.040518715166864394
+cat__OnlineBackup_No,0.030764579874085807
+cat__Contract_Two year,0.023635411417010546
+cat__PaperlessBilling_No,0.0196401612646648
+cat__Dependents_Yes,0.01561421924837154
+cat__PaperlessBilling_Yes,0.01450492837982453
+cat__Dependents_No,0.013034026956929259
+cat__MultipleLines_No,0.012120553866851349
+cat__OnlineBackup_Yes,0.011001146811436949
+num__MonthlyCharges,0.009228606811036663
+cat__StreamingMovies_Yes,0.007712121761550915
+cat__StreamingTV_Yes,0.006175457036881831
+num__TotalCharges,0.004027578317665028
+cat__StreamingMovies_No,0.0029240284389952667
+cat__Partner_No,0.0029148113807276914
+cat__OnlineSecurity_Yes,0.002770531597575049
+cat__TechSupport_Yes,0.0021636119445780718
+cat__MultipleLines_Yes,0.0016776997139846864
+cat__StreamingTV_No,0.0015594073486822344
+cat__Contract_One year,0.001489611133664182
+num__AvgMonthlySpend,0.0008004192785073489
+cat__InternetService_DSL,0.0005390143029002374
+cat__Partner_Yes,0.00047930078715127775
+cat__DeviceProtection_No,0.0001871626393826992
+cat__gender_Male,9.797008897066317e-05
+num__NumServices,0.0
+num__SeniorCitizen,0.0
+num__HighMonthlyCharge,0.0
+num__PaperlessAutoPay,0.0
+num__AutoPayment,0.0
+num__HighValueCustomer,0.0
+cat__gender_Female,0.0
+cat__MultipleLines_No phone service,0.0
+cat__PhoneService_Yes,0.0
+cat__PhoneService_No,0.0
+cat__DeviceProtection_No internet service,0.0
+cat__OnlineSecurity_No internet service,0.0
+cat__InternetService_No,0.0
+cat__OnlineBackup_No internet service,0.0
+cat__DeviceProtection_Yes,0.0
+cat__StreamingTV_No internet service,0.0
+cat__TechSupport_No internet service,0.0
+cat__StreamingMovies_No internet service,0.0
+cat__PaymentMethod_Bank transfer (automatic),0.0
+cat__PaymentMethod_Credit card (automatic),0.0
+cat__PaymentMethod_Mailed check,0.0
+cat__CustomerLoyalty_Loyal,0.0
+cat__CustomerLoyalty_Regular,0.0
