@@ -18,11 +18,11 @@ The project includes:
 
 **Frontend**
 
-https://your-vercel-url.vercel.app
+[https://your-vercel-url.vercel.app](https://customer-churn-platform-mu.vercel.app/)
 
 **Backend API**
 
-https://your-render-url.onrender.com
+[https://your-render-url.onrender.com](https://customer-churn-platform-wg9x.onrender.com)
 
 ---
 
